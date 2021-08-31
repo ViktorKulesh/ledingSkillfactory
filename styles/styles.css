@@ -70,8 +70,8 @@ body * {
 }
 
 .hero-conteiner {
-    position: relative;
-    z-index: 1;
+  position: relative;
+  z-index: 1;
 }
 
 .title {
